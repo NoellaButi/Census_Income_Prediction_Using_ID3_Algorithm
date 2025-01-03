@@ -115,10 +115,10 @@ weighted avg       0.81      0.82      0.82     15028
 ---
 
 ## **Visualization Files**
-- **PlayTennis Decision Tree:** `playtennis_decision_tree.pdf`
-- **Emails Decision Tree:** `emails_decision_tree.pdf`
-- **Census Decision Tree (Unpruned):** `census_training_tree.pdf`
-- **Census Decision Tree (Pruned):** `census_training_tree_pruned.pdf`
+- **PlayTennis Decision Tree:** `Visualizations/playtennis_decision_tree.pdf`
+- **Emails Decision Tree:** `Visualizations/emails_decision_tree.pdf`
+- **Census Decision Tree (Unpruned):** `Visualizations/census_training_tree.pdf`
+- **Census Decision Tree (Pruned):** `Visualizations/census_training_tree_pruned.pdf`
 
 ---
 
