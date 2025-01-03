@@ -1,1 +1,0 @@
-# Census_Income_Prediction_Using_ID3_Algorithm
